@@ -6,6 +6,7 @@
 .cubo {
   opacity: 0.8;
   margin-top: 5rem;
+  
   color: rgb(0, 0, 0);
   width: 80%;
   background-image: url(/img/pic02.jpg);
@@ -27,4 +28,11 @@ body {
   .cubo {
     width: 50%;
   }
+}
+.icononice {
+  height: 2rem;
+  width: 2rem;
+}
+body {
+  background-image: url(http://source.unsplash.com/1600x900/?city);
 }
