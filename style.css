@@ -21,3 +21,8 @@
 body {
   background-image: url(http://source.unsplash.com/1600x900/?city);
 }
+@media only screen and (min-width: 992px) {
+  .cubo {
+    width: 50%;
+  }
+}
