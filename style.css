@@ -6,14 +6,13 @@
 .cubo {
   opacity: 0.8;
   margin-top: 5rem;
-  
   color: rgb(0, 0, 0);
   width: 80%;
-  background-image: url(/img/pic02.jpg);
+  background-image: url(https://raw.githubusercontent.com/Alexander-Fernandez-1997/weather-landing-apk/master/img/pic02.jpg);
 }
 .card-body {
   color: rgb(0, 0, 0);
-  background-image: url(/img/pic02.jpg);
+  background-image: url(https://raw.githubusercontent.com/Alexander-Fernandez-1997/weather-landing-apk/master/img/pic02.jpg);
 }
 .icononice {
   height: 2rem;
